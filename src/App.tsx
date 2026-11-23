@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import {
-  ArrowDown, ArrowRight, Check, HeartPulse, Hospital, MapPin,
+  ArrowDown, ArrowRight, Check, HeartPulse,  MapPin,
   Menu, MessageCircle, Search, ShieldCheck, Star, Stethoscope, X,
 } from 'lucide-react'
 
