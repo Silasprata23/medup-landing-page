@@ -21,8 +21,8 @@ Abra o endereço indicado pelo Vite (normalmente `http://localhost:5173`).
 Abra `src/App.tsx` e altere as duas constantes no início do arquivo:
 
 ```ts
-const APP_DOWNLOAD_URL = 'https://seu-link-do-apk'
-const PRESENTATION_FEEDBACK_URL = 'https://seu-link-do-formulario'
+const APP_DOWNLOAD_URL = "https://seu-link-do-apk";
+const PRESENTATION_FEEDBACK_URL = "https://seu-link-do-formulario";
 ```
 
 - `APP_DOWNLOAD_URL`: link público para baixar o APK (ou página de download).
